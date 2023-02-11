@@ -1,6 +1,6 @@
-# Machine Learning Projects
+# Machine Learning Portfolio
 
-This repository contains all the projects and assignments completed as part of the [Udemy course](https://www.udemy.com/course/the-complete-machine-learning-course-with-python/) by Dr. Anthony Ng.
+This repository contains my portfolio of Machine Learning Projects.
 
 ## Table of Contents
 
@@ -24,7 +24,3 @@ To run the code in this repository, you will need to have Python and the followi
 ## Contributions
 
 Contributions are welcome! If you find any errors or want to add additional projects to this repository, feel free to create a pull request.
-
-## Acknowledgements
-
-I want to extend my gratitude towards Dr. Anthony Ng for creating this amazing course, and for teaching me the fundamentals of machine learning.
