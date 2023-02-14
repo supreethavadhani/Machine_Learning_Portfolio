@@ -8,7 +8,7 @@ This repository contains my portfolio of Machine Learning Projects.
 - Project 2: [Logistic Regression](https://github.com/supreethavadhani/Machine_Learning_Portfolio/tree/master/projects/Project%202%20-%20Logistic%20Regression)
 - Project 3: [K-Nearest Neighbors](/k_nearest_neighbors)
 - Project 4: [Support Vector Machines](https://github.com/supreethavadhani/Machine_Learning_Portfolio/tree/master/projects/Project%204%20-%20SVM)
-- Project 5: [Decision Trees and Random Forests](/decision_trees)
+- Project 5: [Decision Trees and Random Forests](https://github.com/supreethavadhani/Machine_Learning_Portfolio/tree/master/projects/Project%205%20-%20Decsion%20Trees)
 - Project 6: [Neural Networks](/neural_networks)
 
 ## Setup
