@@ -10,7 +10,7 @@ This repository contains my portfolio of Machine Learning Projects.
 - Project 4: [Support Vector Machines](https://github.com/supreethavadhani/Machine_Learning_Portfolio/tree/master/projects/Project%204%20-%20SVM)
 - Project 5: [Decision Trees and Random Forests](https://github.com/supreethavadhani/Machine_Learning_Portfolio/tree/master/projects/Project%205%20-%20Decsion%20Trees)
 - Project 6: [Neural Networks](/neural_networks)
-
+- Project 7: [Clustering](https://github.com/supreethavadhani/Machine_Learning_Portfolio/tree/master/projects/Project%205%20-%20Clustering)
 ## Setup
 
 To run the code in this repository, you will need to have Python and the following libraries installed:
